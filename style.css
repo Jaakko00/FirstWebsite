@@ -1,0 +1,91 @@
+
+#header h1 {
+    letter-spacing: 2px;
+    color: White;
+    font-size: 50px;
+    border: 3px solid white;
+    
+    padding: 50px;
+}
+#header p {
+    color: white;
+    font-style: oblique;
+}
+header {
+    border-bottom: 3px solid black;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-image: url(mountains.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px 100px;
+}
+nav {
+    color: gray;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.nav a {
+    color: gray;
+    text-decoration: none;
+
+}
+.nav a:hover {
+    font-style: oblique;
+    color: black;
+}
+#active {
+    color: black;
+    letter-spacing: 5px;
+    font-style: oblique;
+}
+main a {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+main a:hover {
+    color: gray;   
+}
+#product1 {
+    border-bottom: solid 3px black;
+    border-top: solid 3px black;
+}
+#product2 {
+    border-bottom: solid 3px black;
+}
+.price {
+    font-size: 40px;
+}
+footer {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    border: blank;
+    
+    background-color: black;
+    padding: 20px 100px 20px 100px;
+}
+.contact a {
+    background-color: #a1a1a1;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+.contact a:hover {
+    background-color: white;
+    color: black;
+}
+#mailing {
+    color: white;
+}
+.credits {
+    color: gray;
+}
